@@ -1,0 +1,10 @@
+{
+    "name": "ADHD Extension",
+    "description": "Text to speech for ADHD",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "extension.html",
+      "default_icon": "ADHD_icon.png"
+    }
+  }
