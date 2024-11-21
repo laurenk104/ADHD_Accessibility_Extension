@@ -1,5 +1,6 @@
 // js for the popoup
 'use strict';
+
 (function() {
   window.addEventListener('load', () => {
     // I don't know what this does but everything breaks if I remove it
