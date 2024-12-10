@@ -4,15 +4,16 @@ Group: Taryn, Kalvin, Lauren, and Emmy
 
 ## Introduction
 
-**TBD**
-
 We are addressing a significant issue: many existing tools for people with ADHD are expensive or scattered across various platforms. Users often find themselves juggling multiple apps—one for timers, another for text-to-speech, and yet another for text scanning. Our goal is to create a single platform that offers all these helpful tools for free, making them easy to access and use.
 
-This is important for three different reasons: centering user needs, aligning with disability justice, and broader impact. We center user needs guided by first-person accounts and personal experiences. This makes sure that the tools developed are relevant and benefit people with ADHD. It’s common for technology aimed at disabled people to merely be a disability dongle and not actually help. It’s important to center user needs and avoid disability dongles.
+This is important for three different reasons: centering user needs, aligning with disability justice, and broader impact. We center user needs guided by first-person accounts and personal experiences. This makes sure that the tools developed are relevant and benefit people with ADHD. It’s common for technology aimed at disabled people to not actually help with their disabilities, but make them conform. It’s important to center user needs and avoid creating tools that only make people with disabilities conform.
 
-From what other people have said about the ADHD app after using it. They can be difficult to use because they are too expensive or have problems. One example is the app Speechify. It makes features like, 
 We can align with the principles of disability justice. We aim to apply these by making tools widely accessible, respecting diverse needs and addressing barriers present in online spaces. 
-We impact the broader disabled community because these tools are useful to everyone- not just people with ADHD. Time management aids and text to speech tools can benefit other neurodiverse people or disabilities.
+Additionally, based on what people have said about using other ADHD apps. They can be difficult to use because they are too expensive or have problems with their text-to-speech. For example Speechify requires a $288 per year to the text-to-speech for languages other than English. Meaning that it is unusable for people that don’t understand English and can’t afford the $288 per year plan. We hope that in our ADHD extension there will be a text-to-speech tool for multiple languages. So by making our tool free, we’re able to make this tool more accessible to more people.
+
+We want to listen to a diverse set of voices, so we find what strategies and tools that people with ADHD have found helpful. We want our strategies and tools for our extension to be from first accounts. Then we use that information to design our tools that are usable in a browser.
+
+We impact the broader disabled community because these tools are useful to everyone- not just people with ADHD. Time management aids and text to speech tools can benefit other neurodiverse people or disabilities. For example, text-to-speech tools are useful to people with visual impairments. Who can find reading text to be very difficult. Another feature with text-to-speech is being able to describe images. Which are otherwise not accessible for the same people with visual impairments. Similarly with time management aids, they are helpful to everyone that struggles with managing time for anything. This includes people with disabilities or without.
 
 ## Positive Disability Principals
 
@@ -56,4 +57,7 @@ The ninth principle demonstrates that we all require different access needs for 
 
 ## Learnings and future work 
 
-**TBD**
+In this project, our group gained valuable experience for learning and growth in several areas that include time management, communication, and collaborative design. Working on this extension required us to plan our timelines carefully and assess our personal skills to assign roles that best suited each of our group members. Coordinating between each other with different skills to contribute to the project also taught us the importance of group communication and collaboration. Additionally, working with accessibility and disability justice principles deepened our understanding of how to create inclusive tools that prioritize user needs and avoid any kind of exclusion.
+ 
+A big takeaway from this project was how important it is to make tools easy for everyone to use. Accessibility isn’t just about following rules, it’s about making sure the tool works for as many people as possible. For example, we wanted to make the extension free because many tools for people with ADHD cost money, which not everyone can afford. We also worked on keeping the design simple, so it doesn’t feel overwhelming or confusing. This is especially important for people with ADHD, who might already face challenges with focus and organization.
+With our ADHD Accessibility Extension, we’re hoping that going forward with this project, there will be more opportunities to expand and improve its design to better align with the collective access principles. This would involve making the extension open-source and thoroughly documented so that others can contribute to the project, making it accessible to others as a free tool and easy to use software. We’d also like to implement features that better support executive function and focus such as a Pomodoro. Incentives such as a timer or a scoreboard/to-do list to keep track of work done while the user is accessing the page they need, would further improve the extensions accessibility. By focusing on these future developments, the project can be more powerful and inclusive benefiting those with ADHD and the broader disabled community. 
